@@ -1,17 +1,14 @@
+# Paul Hardwicke — Portfolio
 
-# Paul Hardwicke – Portfolio
+Live site: https://paulhardwicke-data.github.io/portfolio/
 
-This is a simple, fast, accessible portfolio published with GitHub Pages.
+## Overview
+This portfolio showcases selected work across:
+- **Education** (learning resources, training)
+- **Azure** (cloud projects, automations)
+- **Commendations** (recognitions & testimonials)
+- **Research PDFs** (AFL scheduling & related papers)
+- **Résumé** (latest PDF)
 
-## Add images
-Place JPG/PNG files into:
-```
-assets/images/education/
-assets/images/azure/
-assets/images/commendations/
-```
-Run:
-```
-python build_thumbnails.py
-```
-Then commit and push.
+## Structure
+
