@@ -8,4 +8,4 @@ This portfolio showcases selected work across:
 - **Research proposal:** AFL scheduling optimisation
 - **Education:** testamurs and transcripts
 - **Microsoft certifications**
-
+- **Work commendations and recognitions**
