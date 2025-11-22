@@ -11,14 +11,16 @@ This portfolio showcases selected work across:
 - **Work commendations and recognitions**
 
 - ## CV / Résumé
-[View Résumé (PDF)]
+[View Résumé](PDF)
 
 ## Research proposal: AFL scheduling optimisation
-[View Research Proposal](PDF)
+[View research proposal](PDF)
+[View research presentation](PDF)
+
 [Education gallery] 
 *(Includes scanned testamurs and transcripts)*
 
-## Microsoft Certifications
+## Microsoft certifications
 [Certifications gallery]  
 *(Includes Azure and other Microsoft certifications)*
 
