@@ -1,23 +1,23 @@
 # Paul Hardwicke — Portfolio
 
-Live site: https://paulhardwicke-data.github.io/portfolio/
+Portfolio site: Visit the published portfolio at https://paulhardwicke-data.github.io/portfolio/
 
-This portfolio showcases selected work across:
+Welcome to my professional portfolio. This repository contains key documents, certifications, and achievements relevant to my education and work.
 
 ## CV
-[View CV](PDF)
+- [View CV](PDF)
 
 ## Research proposal: AFL scheduling optimisation
-[View research proposal](PDF)
+- [View research proposal](PDF)
 
-[View research presentation](PDF)
+- [View research presentation](PDF)
 
 ## Education gallery
-[View scanned testamurs and transcripts](jpegs)
+- [View scanned testamurs and transcripts](jpegs)
 
 ## Microsoft certifications
-[View Microsoft and Azure certifications](jpegs) 
+- [View Microsoft and Azure certifications](jpegs) 
 
 ## Work commendations
-[View awards and letters](jpegs)
+- [View awards and letters](jpegs)
 
