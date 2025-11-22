@@ -2,11 +2,10 @@
 
 Live site: https://paulhardwicke-data.github.io/portfolio/
 
-## Overview
 This portfolio showcases selected work across:
 
-## CV / Résumé
-[View Résumé](PDF)
+## CV
+[View CV](PDF)
 
 ## Research proposal: AFL scheduling optimisation
 [View research proposal](PDF)
