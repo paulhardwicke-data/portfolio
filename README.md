@@ -15,15 +15,15 @@ This portfolio showcases selected work across:
 
 ## Research proposal: AFL scheduling optimisation
 [View research proposal](PDF)
+
 [View research presentation](PDF)
 
-[Education gallery] 
-*(Includes scanned testamurs and transcripts)*
+## Education gallery
+[View scanned testamurs and transcripts](jpegs)
 
 ## Microsoft certifications
-[Certifications gallery]  
-*(Includes Azure and other Microsoft certifications)*
+[View Microsoft and Azure certifications](jpegs) 
 
 ## Work commendations
-[Commendations gallery]  
-*(Includes letters and awards)*
+[View awards and letters](jpegs)
+
