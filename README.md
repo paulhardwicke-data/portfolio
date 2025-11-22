@@ -1,11 +1,11 @@
 # Paul Hardwicke — Portfolio
 
-Portfolio site: Visit the published portfolio at https://paulhardwicke-data.github.io/portfolio/
+Published portfolio: https://paulhardwicke-data.github.io/portfolio/
 
 Welcome to my professional portfolio. This repository contains key documents, certifications, and achievements relevant to my education and work.
 
 ## CV
-- [View CV](https://github.com/paulhardwicke-data/portfolio/tree/main/assets)
+- [View CV](paulhardwicke-data/portfolio/tree/main/assets/docs/cv/cv.pdf)
 
 ## Research proposal: AFL scheduling optimisation
 - [View research proposal](PDF)
