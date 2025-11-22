@@ -8,7 +8,7 @@ This portfolio showcases selected work across:
 - **Azure** (cloud projects, automations)
 - **Commendations** (recognitions & testimonials)
 - **Research PDFs** (AFL scheduling & related papers)
-- [assets/docs/research/research_presentation_2025-10-14.pdf](Research presentation)
+- (assets/docs/research/research_presentation_2025-10-14.pdf)[Research presentation]
 - **Résumé** (latest PDF)
 
 ## Structure
