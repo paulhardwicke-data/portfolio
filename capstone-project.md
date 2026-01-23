@@ -7,7 +7,7 @@ Stakeholders are the AFL, its match broadcast partners, match venues, participat
 
 ## Problem definition
 Rather than playing a single (17-match) or dual (34-match) round-robin, the 18 AFL teams play 11 opponents once and six opponents twice; i.e., 23 matches per team per season.  
-Trillions of combinations exist to pair opponents for repeat match-ups. Pairings of repeat opponents provides fuel for debate on each team's relative advantage.  
+Trillions of combinations exist to pair opponents for repeat match-ups. Pairings of repeat opponents can fuel debate on each team's relative advantages and disadvantagess.  
 Myriad scheduling constraints apply, some of which are listed below for reference.  
 The 2028 addition of the Tasmania Devils, making an uneven 19 teams, will exacerbate scheduling difficulty.
 

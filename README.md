@@ -34,9 +34,9 @@ Employment-related capability examples in addition to those provided above are a
 * Restructured complex website information architecture to migrate legacy enterprise websites to SharePoint CMS, improving user journeys and data discoverability.
 
 ### Commendations
-| AO7 Manager higher duty relief | AO8 Manager higher duty relief | Values award | Excellence award |
+| AO8 managerial higher duty relief | Values award | AO7 managerial higher duty relief | Excellence commendation |
 | :--- | :--- | :--- | :--- |
-| ![AO7 Manager higher duty relief](assets/docs/commendations/AO7_2017_400h.jpg) | ![AO8 Manager higher duty relief](assets/docs/commendations/AO8_2019_400h.jpg)| ![Values award](assets/docs/commendations/values_2018_400h.jpg) | ![Excellence award](assets/docs/commendations/excellence_2008_400h.jpg) | 
+| ![AO8 Manager higher duty relief](assets/docs/commendations/AO8_2019_400h.jpg) | ![Values award](assets/docs/commendations/values_2018_400h.jpg) | ![AO7 Manager higher duty relief](assets/docs/commendations/AO7_2017_400h.jpg) | ![Excellence commendation](assets/docs/commendations/excellence_2008_400h.jpg) | 
 
 ## Education
 Unique student identifier (USI): LCE9ML8267
@@ -46,15 +46,12 @@ Unique student identifier (USI): LCE9ML8267
 
 ### Completed tertiary education
 | Graduate Certificate in Information Systems | Graduate Certificate in Information Technology | Bachelor of Creative Industries | 
-| :--- | :--- | :--- | 
-| GPA 6.8 | GPA 7.0 | GPA 6.2 | 
-
+| :--- | :--- | :--- |
+| GPA 6.8 | GPA 7.0 | GPA 6.2 |
 | ![Graduate Certificate in Information Systems testamur](assets/docs/education/Deakin_300_441.jpg) | ![Graduate Certificate in Information Technology with Distinction testamur](assets/docs/education/JCU_300w_440h.jpg) | ![Bachelor of Creative Industries testamur](assets/docs/education/QUT_300w_440h.jpg) | 
 
-
-
 ## Microsoft certifications
-| Azure Data Fundamentals (DP900) | Power Platform Fundamentals (PL900) | Security, Compliance, and Identity Fundamentals (SC900) | 
+| DP900 Azure Data | PL900 Power Platform | SC900 Security, Compliance, and Identity | 
 | :--- | :--- | :--- |
 | ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_300w_300h.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_300w_300h.jpg) | ![Security, Compliance, and Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_300w_300h.jpg) | 
 
