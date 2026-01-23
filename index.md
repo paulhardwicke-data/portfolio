@@ -7,7 +7,9 @@ My current Master of ICT capstone dissertation applies contemporary data analysi
 **Career objective:** Seeking to explore growth opportunities in data management that will leverage my ICT employment, academic research, and industry best practice certifications.
 
 ## Skills matrix
+
 This matrix aligns Skills Framework for the Information Age (SFIA) and career development theory (CDT) capabilities to my recent employment history and academic research.
+
 | SFIA code | Skill definition | Employment example | CDT/employment alignment | Research example | CDT/research alignment |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **BSMO**: Business modelling | Creating models of business scenarios, representing processes, data and roles to support decision-making and analysis. | Developed enterprise web content workflows and roles for a video platform that supports an organisation of 90,000 staff. | Holland (Enterprising): Directing organisational systems for large-scale impact. | Applying a weighted-sum minimisation model and quantifying inequities for a 19-team AFL season. | Holland (Investigative): Applying mathematical abstraction to solve real-world fairness challenges. |
@@ -21,38 +23,45 @@ This matrix aligns Skills Framework for the Information Age (SFIA) and career de
 
 ## Employment 2011-2026 
 ### AO6 Senior web officer, Queensland Government Department of Education (current role, full time)
-Employment-related capability examples in addition to those provided above are as follows:  
+
+Employment-related capability examples in addition to those provided above are as follows:
 
 #### Information governance (SFIA: GOVN)
 * Developed comprehensive guides for web content and video publishing, establishing publishing standards approved by the Chief Information Officer. 
-* Developed an annual content review program for more than 100 business unit directors, reducing data redundancy and improving intranet content currency.  
+* Developed an annual content review program for more than 100 business unit directors, reducing data redundancy and improving intranet content currency.
+
 #### Quality assurance (SFIA: QUAS)
 * Evaluated the strategic impact of the Australian Government Social Media Minimum Age Act 2024, providing executive recommendations to maintain engagement with a priority audience of more than 500,000 Queensland school students.
-* Modernised a video publishing framework to meet stringent Information Privacy Act 2009 (Qld) amendments, implementing changes to meet privacy and consent, legal, and recordkeeping requirements.  
+* Modernised a video publishing framework to meet stringent Information Privacy Act 2009 (Qld) amendments, implementing changes to meet privacy and consent, legal, and recordkeeping requirements.
+
 #### Systems development management (SFIA: DLMG)
 * Restructured complex website information architecture to migrate legacy enterprise websites to SharePoint CMS, improving user journeys and data discoverability.
 
-### Commendations
+### Commendations  
+
 | AO8 managerial higher duty relief | Values award | AO7 managerial higher duty relief | Excellence commendation |
 | :--- | :--- | :--- | :--- |
-| ![AO8 Manager higher duty relief](assets/docs/commendations/AO8_2019_400h.jpg) | ![Values award](assets/docs/commendations/values_2018_400h.jpg) | ![AO7 Manager higher duty relief](assets/docs/commendations/AO7_2017_400h.jpg) | ![Excellence commendation](assets/docs/commendations/excellence_2008_400h.jpg) | 
+| ![AO8 Manager higher duty relief](assets/docs/commendations/AO8_2019_400h.jpg) | ![Values award](assets/docs/commendations/values_2018_400h.jpg) | ![AO7 Manager higher duty relief](assets/docs/commendations/AO7_2017_400h.jpg) | ![Excellence commendation](assets/docs/commendations/excellence_2008_400h.jpg) |
 
 ## Education
 Unique student identifier (USI): LCE9ML8267
+
 ### 2023–2026: Master of Information and Communications Technology, University of the Sunshine Coast (scheduled for completion June 2026)  
 Information about my research-related capabilities is provided in my dissertation capstone project, [Dealing with the Devils: AFL Match Scheduling Optimisation](capstone-project.md), scheduled for completion in February 2026.  
 Current GPA 6.1 
 
 ### Completed tertiary education
-| Graduate Certificate in Information Systems | Graduate Certificate in Information Technology | Bachelor of Creative Industries | 
+
+| Graduate Certificate in Information Systems | Graduate Certificate in Information Technology | Bachelor of Creative Industries |
 | :--- | :--- | :--- |
 | GPA 6.8 | GPA 7.0 | GPA 6.2 |
-| ![Graduate Certificate in Information Systems testamur](assets/docs/education/Deakin_300_441.jpg) | ![Graduate Certificate in Information Technology with Distinction testamur](assets/docs/education/JCU_300w_440h.jpg) | ![Bachelor of Creative Industries testamur](assets/docs/education/QUT_300w_440h.jpg) | 
+| ![Graduate Certificate in Information Systems testamur](assets/docs/education/Deakin_300_441.jpg) | ![Graduate Certificate in Information Technology with Distinction testamur](assets/docs/education/JCU_300w_440h.jpg) | ![Bachelor of Creative Industries testamur](assets/docs/education/QUT_300w_440h.jpg) |
 
 ## Microsoft certifications
-| DP900 Azure Data | PL900 Power Platform | SC900 Security, Compliance, and Identity | 
+
+| DP900 Azure Data | PL900 Power Platform | SC900 Security, Compliance, and Identity |
 | :--- | :--- | :--- |
-| ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_300w_300h.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_300w_300h.jpg) | ![Security, Compliance, and Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_300w_300h.jpg) | 
+| ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_300w_300h.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_300w_300h.jpg) | ![Security, Compliance, and Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_300w_300h.jpg) |
 
 ## Technical competencies
 * Adobe Creative Cloud
@@ -69,7 +78,7 @@ Co-owner of [Essential Editing](https://essentialediting.com.au/), a proofreadin
 
 ## Contact
 * Phone: (+61) 400 332 433
-* Email: [paul.hardwicke@gmail.com](paul.hardwicke@gmail.com)
+* Email: [paul.hardwicke@gmail.com](mailto:paul.hardwicke@gmail.com)
 
 ## Curriculum vitae
 [CV - Paul Hardwicke](assets/docs/CV.pdf) 
