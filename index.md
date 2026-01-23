@@ -58,7 +58,7 @@ Information about my research-related capabilities is provided in my dissertatio
 
 ## Microsoft certifications
 
-| DP900 Azure Data | PL900 Power Platform | SC900 Security, Compliance, and Identity |
+| Azure Data | Power Platform | Security, Compliance, Identity |
 | :--- | :--- | :--- |
 | ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_250.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_250.jpg) | ![Security, Compliance, and Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_250.jpg) |
 
