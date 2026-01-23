@@ -40,9 +40,9 @@ Employment-related capability examples in addition to those provided above are a
 
 ## Education
 Unique student identifier (USI): LCE9ML8267
-### 2023–2026: Master of Information and Communications Technology, University of the Sunshine Coast (scheduled for completion June 2026)
-* Information about my research-related capabilities is provided in my dissertation capstone project, [Dealing with the Devils: AFL Match Scheduling Optimisation](capstone-project.md), scheduled for completion in February 2026.
-* Current GPA 6.1 
+### 2023–2026: Master of Information and Communications Technology, University of the Sunshine Coast (scheduled for completion June 2026)  
+Information about my research-related capabilities is provided in my dissertation capstone project, [Dealing with the Devils: AFL Match Scheduling Optimisation](capstone-project.md), scheduled for completion in February 2026.  
+Current GPA 6.1 
 
 ### Completed tertiary education
 | Graduate Certificate in Information Systems | Graduate Certificate in Information Technology | Bachelor of Creative Industries | 

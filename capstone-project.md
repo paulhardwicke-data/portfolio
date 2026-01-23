@@ -25,12 +25,10 @@ Constraints impact the distribution of marquee matches, venue assignments, broad
 * Minimum 43 matches at Marvel Stadium and 47 at the MCG.
 * Minimum 1 home match against either Collingwood or Essendon.
 * Minimum 5 matches in Victoria and 1 at the MCG.
-
 **Player welfare:**
 * Minimum 5 clear days between matches.
 * Minimum 6 rounds must separate repeat visits to WA and to Queensland.
 * Teams must not play 3 consecutive away (or home) games.
-
 **Strength of schedule:**
 * Marquee protection: Grand final rematches, traditional rivalries, and blockbusters such as ANZAC Day matches, are mandatory.
 * Minimum 6 rounds between repeat match-ups, with the second meeting not to occur before Round 11.
