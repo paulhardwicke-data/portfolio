@@ -1,15 +1,16 @@
-# Professional statement
+# Paul Hardwicke | ICT Professional | Portfolio
+## Professional statement
 Adaptable, optimistic, and persistent information and communications technology (ICT) professional committed to data and content integrity in enterprise-level digital projects.  
 With more than 15 years of ICT experience and a lifelong growth mindset, I am now positioned to leverage academic research to address complex systems development challenges.  
 My current Master of ICT capstone dissertation applies contemporary data analysis techniques to optimise AFL match scheduling. It demonstrates my information governance and systems development capabilities through the management of interdependent data sets and quality assurance baselines.  
 **Career objective:** Seeking to explore growth opportunities in data management that will leverage my ICT employment, academic research, and industry best practice certifications.
 
-# Skills matrix
+## Skills matrix
 This matrix aligns Skills Framework for the Information Age (SFIA) and career development theory (CDT) capabilities to my recent employment history and academic research.
 
 | SFIA description | Employment example | CDT/ employment alignment | Research example | CDT/ research alignment |
 | :--- | :--- | :--- | :--- | :--- | 
-| **BSMO** Business modelling: Model business scenarios and represent processes, data, and roles to support decision-making. | Developed enterprise web content workflows and roles for a video platform that supports an organisation of 90,000 staff. | Holland (Enterprising): Directing organisational systems for large-scale impact. | Applying a weighted-sum minimisation model and quantifying inequities for a 19-team AFL season. | Holland (Investigative): Applying mathematical abstraction to solve real-world fairness challenges. |
+| **BSMO** Business modelling: Model business scenarios and represent processes, data, and roles to support analysis | Developed enterprise web content workflows and roles for a video platform that supports an organisation of 90,000 staff. | Holland (Enterprising): Directing organisational systems for large-scale impact. | Applying a weighted-sum minimisation model and quantifying inequities for a 19-team AFL season. | Holland (Investigative): Applying mathematical abstraction to solve real-world fairness challenges. |
 | **DATM** Data management: Develop policies and practices that control, protect, and optimise the value of data assets. | Implemented annual content currency reviews to enforce data quality and retention policies. | Bandura (Self-Efficacy): Building mastery in data governance through policy enforcement. | Compiling a 14-season historical AFL dataset to ensure research integrity. | Bandura (Self-Efficacy): Managing large-scale data to validate analytical outcomes. |
 | **DLMG** Systems development management: Plan, estimate, and execute systems to time, budget, and quality targets. | Triaged Service Now ICT tickets and quality requirements for large-scale corporate websites. | Parsons (Factor): Applying detail-oriented traits to meet structured operational requirements. | Developed a timeline to manage project milestones for a scheduling model. | Super (Establishment): Planning career-defining research milestones. |
 | **DTAN** Data modelling and design: Develop models to represent, communicate, and manage data requirements. | Analysed website taxonomies to ensure content maintenance by more than 100 business unit directors. | Holland (Investigative): Using analytical skills to solve organisational hierarchy issues. | Applying Pareto frontier analysis to optimise conflicting travel and break match constraints. | Holland (Investigative): Modelling data to optimise conflicting constraints. |
@@ -53,7 +54,7 @@ Information about my research-related capabilities is provided in my capstone pr
 | Graduate Certificate in Information Systems | Graduate Certificate in Information Technology | Bachelor of Creative Industries |
 | :--- | :--- | :--- |
 | GPA 6.8 | GPA 7.0 | GPA 6.2 |
-| <a href="assets/docs/education/Deakin_602_884.jpg" target="_blank">![Graduate Certificate in Information Systems testamur](assets/docs/education/Deakin_300_441.jpg)</a> | <a href="assets/docs/education/JCU_600w_800h.jpg" target="_blank">![Graduate Certificate in Information Technology testamur](assets/docs/education/JCU_300w_440h.jpg)</a> | <a href="assets/docs/education/QUT_600w_880h.jpg" target="_blank">![Bachelor of Creative Industries testamur](assets/docs/education/QUT_300w_440h.jpg)</a> |
+| <a href="assets/docs/education/Deakin_602_884.jpg" target="_blank">![Graduate Certificate in Information Systems testamur](assets/docs/education/Deakin_300_441.jpg)</a> | <a href="assets/docs/education/JCU_cert_2020.jpg" target="_blank">![Graduate Certificate in Information Technology testamur](assets/docs/education/JCU_300w_440h.jpg)</a> | <a href="assets/docs/education/QUT_600w_880h.jpg" target="_blank">![Bachelor of Creative Industries testamur](assets/docs/education/QUT_300w_440h.jpg)</a> |
 
 ## Microsoft certifications
 
