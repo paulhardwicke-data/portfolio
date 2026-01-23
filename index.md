@@ -47,8 +47,7 @@ Employment-related capability examples in addition to those provided above are a
 Unique student identifier (USI): LCE9ML8267
 
 ### 2023–2026: Master of Information and Communications Technology, University of the Sunshine Coast (scheduled for completion June 2026)  
-Information about my research-related capabilities is provided in my dissertation capstone project, [Dealing with the Devils: AFL Match Scheduling Optimisation](capstone-project.md), scheduled for completion in February 2026.  
-Current GPA 6.1 
+Information about my research-related capabilities is provided in my dissertation capstone project, [Dealing with the Devils: AFL Match Scheduling Optimisation](capstone-project.md), scheduled for completion in February 2026. Current GPA 6.1. 
 
 ### Completed tertiary education
 
@@ -61,7 +60,7 @@ Current GPA 6.1
 
 | DP900 Azure Data | PL900 Power Platform | SC900 Security, Compliance, and Identity |
 | :--- | :--- | :--- |
-| ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_300w_300h.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_300w_300h.jpg) | ![Security, Compliance, and Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_300w_300h.jpg) |
+| ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_250.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_250.jpg) | ![Security, Compliance, and Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_250.jpg) |
 
 ## Technical competencies
 * Adobe Creative Cloud
