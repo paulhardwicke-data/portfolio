@@ -1,0 +1,9 @@
+# Site Settings
+title: Paul Hardwicke | Professional Portfolio
+description: ICT Governance, Data Analysis, and AFL Scheduling Research
+theme: jekyll-theme-cayman
+
+# Jekyll settings
+remote_theme: jekyll/jekyll-theme-cayman
+markdown: kramdown
+include: [assets]
