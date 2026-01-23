@@ -55,8 +55,8 @@ Unique student identifier (USI): LCE9ML8267
 ### 2023–2026: Master of Information and Communications Technology, University of the Sunshine Coast (scheduled for completion June 2026)  
 
 Current GPA 6.1.  
-Information about my research-related capabilities is provided in my capstone project, scheduled for completion in February 2026:  
-<a href="capstone-project.html" target="_blank">Dealing with the Devils: AFL Match Scheduling Optimisation</a>, 
+Information about my research-related capabilities is provided in my <a href="capstone-project.html" target="_blank">capstone project</a>, Dealing with the Devils: AFL Match Scheduling Optimisation, due for submission in February 2026. 
+
 
 ### Completed tertiary education  
 
