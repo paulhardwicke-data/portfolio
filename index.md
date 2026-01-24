@@ -1,5 +1,5 @@
 # Paul Hardwicke | ICT portfolio  
-
+<a href="capstone-project.html" target="_blank">Master of ICT capstone project</a>
 ## Professional statement  
 
 Adaptable, optimistic, and persistent information and communications technology (ICT) professional committed to data and content integrity in enterprise-level digital projects.  
