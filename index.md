@@ -1,10 +1,10 @@
 # Paul Hardwicke | ICT portfolio  
-<a href="capstone-project.html" target="_blank">Master of ICT capstone project</a>
+
 ## Professional statement  
 
-Adaptable, optimistic, and persistent information and communications technology (ICT) professional committed to data and content integrity in enterprise-level digital projects.  
-With more than 15 years of ICT experience and a lifelong growth mindset, I am now positioned to leverage academic research to address complex systems development challenges.  
-My current Master of ICT capstone dissertation applies contemporary data analysis techniques to optimise AFL match scheduling. It demonstrates my information governance and systems development capabilities through the management of interdependent data sets and quality assurance baselines.  
+Adaptable and dedicated information and communications technology (ICT) professional committed to data and content integrity in enterprise-level digital projects.  
+With more than 15 years of ICT experience and a lifelong growth mindset, I am positioned to leverage academic research to address complex systems development challenges.  
+My <a href="capstone-project.html" target="_blank">Master of ICT capstone project</a> applies contemporary data analysis techniques to optimise AFL match scheduling. It demonstrates my information governance and systems development capabilities through the management of interdependent data sets and quality assurance baselines.  
 **Career objective:** Seeking to explore growth opportunities in data management that will leverage my ICT employment, academic research, and industry best practice certifications.
 
 ## Skills matrix  
@@ -96,4 +96,4 @@ Co-owner of <a href="https://essentialediting.com.au/" target="_blank">Essential
 
 <a href="assets/docs/CV.pdf" target="_blank">CV - Paul Hardwicke</a>  
 
-Portfolio updated 23/01/2026  
+
