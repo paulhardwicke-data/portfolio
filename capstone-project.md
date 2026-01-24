@@ -1,16 +1,16 @@
 ---
 layout: default
-title: AFL Match Scheduling Optimisation
+title: Capstone - AFL match scheduling optimisation
 ---
 
 # Master of ICT capstone project  
 
-My capstone project ('Dealing with the Devils: Fairness Challenges of a 19-Team AFL Fixture' in progress) addresses a complex combinatorial optimisation challenge to achieve fairness in Australian Football League (AFL) match scheduling.  
+My capstone project ('Dealing with the Devils: Fairness Challenges of a 19-Team AFL Fixture'), in progress, addresses a complex combinatorial optimisation challenge to achieve fairness in Australian Football League (AFL) match scheduling.  
 
 ## Target audience  
 
-The dissertation is being prepared for submission to the University of the Sunshine Coast as part of a Master of Information and Communications Technology.  
-Stakeholders are the AFL, its match broadcast partners, match venues, participating clubs and players, and their supporters.  
+The thesis will be submitted to the University of the Sunshine Coast as part of a Master of Information and Communications Technology.  
+Stakeholders include the AFL, its participating clubs and players, match broadcast partners, match venues, and AFL football club members and supporters.  
 
 ## Problem definition  
 
