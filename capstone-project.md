@@ -53,11 +53,20 @@ Constraints impact the distribution of marquee matches, venue assignments, broad
   * Victorian teams must play outside Victoria a minimum of 5 times.  
 
 ## Rest variance
-The heat map below illustrates a fairness inequity in rest days that preceded matches for season 2025. For example, Essendon had an additional 2 days' rest prior to playing Adelaide, for +2 result; and 2 fewer days prior to playing Collingwood, for -2 result. Where teams played twice, such as Essendon and Carlton, the sum of variance is shown.  
+The heat map below illustrates a fairness inequity in rest days that preceded matches in season 2025. For example, Essendon had an additional 2 days' rest prior to playing Adelaide, for +2 result; and 2 fewer days prior to playing Collingwood, for -2 result. Where teams played twice, such as Essendon and Carlton, the sum of variance is shown.  
 Essendon was most advantaged and Melbourne most disadvantaged over the season. Five of the top 8 'rested' teams qualified to play finals.  
+
 ### 2025 net rest heat map
  <a href="assets/2025_heatmap.jpg" target="_blank">![2025 net rest variance heat map](assets/2025_heatmap_reduced.jpg)</a> 
-   
+
+## Travel variance  
+The chart below illustrates the variance in total distance travelled by each team to play matches in 2025. Richmond travelled 6,645km, 23% of the distance travelled by Fremantle, at 27,927km. As the leading travellers by a significant margin, Fremantle, West Coast, and Gold Coast players have the greatest impost in relation to the cumulative recovery demands of regular travel.  
+
+### 2025 travel variance
+ <a href="assets/2025_travel.jpg" target="_blank">![2025 net rest variance heat map](assets/2025_travel_reduced.jpg)</a> 
+
+
+
 <p>Return to <a href="index.html" target="_blank">professional portfolio</a>.</p>  
 
 
