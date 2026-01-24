@@ -52,6 +52,6 @@ Constraints impact the distribution of marquee matches, venue assignments, broad
   * Teams must not play consecutive matches in two different 'away states'.  
   * Victorian teams must play outside Victoria a minimum of 5 times.  
 
-<p>Return to <a href="index.md" target="_blank">Professional Portfolio and Skills Matrix</a></p>  
+<p>Return to <a href="index.html" target="_blank">professional portfolio</a>.</p>  
 
 Page updated 23/01/2026  
