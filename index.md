@@ -66,9 +66,10 @@ Information about my research-related capabilities is provided in my <a href="ca
 
 ## Microsoft certifications  
 
-| Azure Data | Power Platform | Security & Compliance |
-| :--- | :--- | :--- |
-| ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_250.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_250.jpg) | ![Security, Compliance, & Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_250.jpg) |
+| Azure Data | Power Platform | Security & Compliance | Word Expert |  
+| :--- | :--- | :--- | :--- |
+| ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_250.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_250.jpg) | ![Security, Compliance, & Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_250.jpg) | ![Word Expert](assets/docs/certifications/Word_expert_250.jpg) |
+| Core data concepts using Microsoft Azure data services to support data modelling and design. | Use the Microsoft Power Platform to build basic solutions, automate business processes, and perform data analysis. | Understand security, compliance, and identity concepts and related cloud-based solutions used for information security and governance. | Create and manage professional documents, including using advanced formatting and document management tools. |
 
 ## Technical competencies  
 
