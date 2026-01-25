@@ -67,9 +67,9 @@ Information about my research-related capabilities is provided in my <a href="ca
 <table>
   <thead>
     <tr>
-      <th width="33.3%">Graduate Certificate in Information Systems, GPA 6.8</th>
-      <th width="33.3%">Graduate Certificate in Information Technology, GPA 7.0</th>
-      <th width="33.4%">Bachelor of Creative Industries, GPA 6.2</th>
+      <th width="33.3%">Graduate Certificate in Information Systems</th>
+      <th width="33.3%">Graduate Certificate in Information Technology</th>
+      <th width="33.4%">Bachelor of Creative Industries</th>
     </tr>
   </thead>
   <tbody>
@@ -97,9 +97,9 @@ Information about my research-related capabilities is provided in my <a href="ca
       </td>
     </tr>
     <tr>
-      <td valign="top"><strong>Excelled in: </strong>Business Requirements Analysis, Foundation Skills in Data Analysis, Information Management & Security, Value of Information </td>
-      <td valign="top"><strong>Excelled in: </strong>Entrepreneurship & Collective Intelligence, e-Strategic Management, Internet Fundamentals, Problem Solving & Programming </td>
-      <td valign="top"><strong>Sub-majors: </strong>Communication, Digital Media </td>
+      <td valign="top"><strong>GPA 6.8 </strong>Excelled in Business Requirements Analysis, Foundation Skills in Data Analysis, Information Management & Security, Value of Information </td>
+      <td valign="top"><strong>GPA 7.0 </strong>Excelled in Entrepreneurship & Collective Intelligence, e-Strategic Management, Internet Fundamentals, Problem Solving & Programming </td>
+      <td valign="top"><strong>GPA 6.2 </strong>Sub-majors: Communication, Digital Media </td>
     </tr>
   </tbody>
 </table>
