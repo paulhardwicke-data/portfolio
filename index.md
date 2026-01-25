@@ -90,8 +90,8 @@ Information about my research-related capabilities is provided in my <a href="ca
       </td>
       <td align="center">
         <div align="center">
-          <a href="assets/docs/education/QUT_300w_440h.jpg" target="_blank">
-            <img src="assets/docs/education/QUT_600w_880h.jpg" width="150" height="220" alt="Bachelor of Creative Industries (QUT)">
+          <a href="assets/docs/education/QUT_600w_880h.jpg" target="_blank">
+            <img src="assets/docs/education/QUT_300w_440h.jpg" width="150" height="220" alt="Bachelor of Creative Industries (QUT)">
           </a>
         </div>
       </td>
