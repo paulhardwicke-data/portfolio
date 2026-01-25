@@ -33,7 +33,8 @@ This can be addressed by flagging rest day disparities of 3 or more days. A cons
 
 The heat map below illustrates inequity in rest days that preceded matches in season 2025. For example, Essendon had 2 additional rest days prior to playing Adelaide and 2 fewer prior to playing Collingwood. Essendon the was most advantaged and Melbourne the most disadvantaged team over the course of the season. Five of the top 8 'rested' teams qualified to play finals.  
 
-**2025 net rest heat map**
+#### 2025 net rest heat map  
+
  <a href="assets/2025_heatmap.jpg" target="_blank">![2025 net rest variance heat map](assets/2025_heatmap_reduced.jpg)</a> 
 
 ### Travel variance  
@@ -43,9 +44,10 @@ Similarly, a 4-match mini-carnival can be scheduled in Tasmania. This would feat
 
 Road trips can be cost-prohibitive, and have historically been avoided with cumulative travel being considered detrimental to player welfare. In 2025, North Melbourne played consecutive home games in Western Australia against Fremantle and West Coast. Other teams, particularly from outside Victoria, could exploit this strategy to reduce the frequency of long flights.  
 
-The chart below illustrates the variance in total distance travelled by each team to play matches in 2025. Richmond travelled 6,645 km, less than a quarter of the 27,927 km travelled by Fremantle.    
+The chart below illustrates the variance in total distance travelled by each team to play matches in 2025. Richmond travelled 6,645 km, less than a quarter of the 27,927 km travelled by Fremantle.  
 
-**2025 travel variance**
+#### 2025 travel variance  
+
  <a href="assets/2025_travel.jpg" target="_blank">![2025 net rest variance heat map](assets/2025_travel_reduced.jpg)</a> 
 
 ## Scheduling constraints 
