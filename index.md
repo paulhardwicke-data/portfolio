@@ -67,9 +67,9 @@ Information about my research-related capabilities is provided in my <a href="ca
 <table>
   <thead>
     <tr>
-      <th width="33.3%">Graduate Certificate in Information Systems</th>
-      <th width="33.3%">Graduate Certificate in Information Technology</th>
-      <th width="33.4%">Bachelor of Creative Industries</th>
+      <th width="33.3%">Graduate Certificate in Information Systems, GPA 6.8</th>
+      <th width="33.3%">Graduate Certificate in Information Technology, GPA 7.0</th>
+      <th width="33.4%">Bachelor of Creative Industries, GPA 6.2</th>
     </tr>
   </thead>
   <tbody>
