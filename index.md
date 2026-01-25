@@ -3,6 +3,7 @@
 ## Professional statement  
 
 Adaptable and dedicated information and communications technology (ICT) professional committed to data and content integrity in enterprise-level digital projects. With more than 15 years of ICT experience and a lifelong growth mindset, I am positioned to leverage academic research to address complex systems development challenges.  
+
 **Career objective:** Seeking to explore growth opportunities in data management that will leverage my ICT employment, academic research, and industry best practice certifications.  
 
 **Capstone project:** My <a href="capstone-project.html" target="_blank">Master of ICT capstone project</a> applies contemporary data analysis techniques to optimise AFL match scheduling. It demonstrates my information governance and systems development capabilities through the management of interdependent data sets and quality assurance baselines.  
@@ -69,8 +70,8 @@ Information about my research-related capabilities is provided in my <a href="ca
 
 | Azure Data | Power Platform | Security & Compliance | Word Expert |  
 | :--- | :--- | :--- | :--- |
-| ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_250.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_250.jpg) | ![Security, Compliance, & Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_250.jpg) | ![Word Expert](assets/docs/certifications/Word_expert_250.jpg) |
-| Core data concepts using Microsoft Azure data services to support data modelling and design. | Use the Microsoft Power Platform to build basic solutions, automate business processes, and perform data analysis. | Understand security, compliance, and identity concepts and related cloud-based solutions used for information security and governance. | Create and manage professional documents, including using advanced formatting and document management tools. |
+| ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_300w_300h.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_300w_300h.jpg) | ![Security, Compliance, & Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_300w_300h.jpg) | ![Word Expert](assets/docs/certifications/Word_expert_300w_300h.jpg) |
+| Azure data services used to support data modelling and design. | Build basic data solutions, automate business processes, perform data analysis. | Concepts and related cloud-based solutions used for information security and governance. | Create and manage professional documents. |
 
 ## Technical competencies  
 
