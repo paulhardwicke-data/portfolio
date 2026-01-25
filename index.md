@@ -68,10 +68,10 @@ Information about my research-related capabilities is provided in my <a href="ca
 
 ## Microsoft certifications  
 
-| Azure Data | Power Platform | Security & Compliance | Word Expert |  
-| :--- | :--- | :--- | :--- |
-| ![Azure Data Fundamentals (DP900)](assets/docs/certifications/data_fundamentals_300w_300h.jpg) | ![Power Platform Fundamentals (PL900)](assets/docs/certifications/power_platform_300w_300h.jpg) | ![Security, Compliance, & Identity Fundamentals (SC900)](assets/docs/certifications/security_compliance_300w_300h.jpg) | ![Word Expert](assets/docs/certifications/Word_expert_300w_300h.jpg) |
-| Azure data services used to support data modelling and design. | Build basic data solutions, automate business processes, perform data analysis. | Concepts and related cloud-based solutions used for information security and governance. | Create and manage professional documents. |
+| Azure Data | Power Platform | Security & Compliance |
+| :---: | :---: | :---: |
+| <div align="center"><a href="assets/docs/certifications/data_fundamentals_300w_300h.jpg" target="_blank"><img src="assets/docs/certifications/data_fundamentals_300w_300h.jpg" width="150" height="150" alt="Azure Data Fundamentals (DP900)"></a></div> | <div align="center"><a href="assets/docs/certifications/power_platform_300w_300h.jpg" target="_blank"><img src="assets/docs/certifications/power_platform_300w_300h.jpg" width="150" height="150" alt="Power Platform Fundamentals (PL900)"></a></div> | <div align="center"><a href="assets/docs/certifications/security_compliance_300w_300h.jpg" target="_blank"><img src="assets/docs/certifications/security_compliance_300w_300h.jpg" width="150" height="150" alt="Security, Compliance, and Identity Fundamentals (SC900)"></a></div> |
+| Azure data services used to support data modelling and design. | Build basic data solutions, automate business processes, perform data analysis. | Information security and governance using cloud-based solutions. |
 
 ## Technical competencies  
 
