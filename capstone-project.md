@@ -16,20 +16,18 @@ The thesis will be submitted to the University of the Sunshine Coast to contribu
 
 Rather than playing a single (17-match) or dual (34-match) round-robin, the 18 current AFL teams play 11 opponents once and 6 opponents twice; i.e., 23 matches per team per season, which is considered optimal. The AFL will be 5 teams short of single round-robin scheduling simplicity when Tasmania joins the league in 2028.  
 
-Trillions of combinations exist to pair opponents for the 6 repeat match-ups required to bridge this scheduling gap. The pairing of repeat opponents impacts all teams' chances of premiership success, and it is a primary source of fairness inequity. Others include rest day disparity and the travel burden for teams outside of Victoria.  
-
-The addition of the Tasmania Devils, making an uneven 19 teams, is likely to exacerbate scheduling difficulty.  
+Trillions of combinations exist to pair opponents for the 6 repeat match-ups required to bridge this scheduling gap. The pairing of repeat opponents impacts all teams' chances of premiership success, and it is a primary source of fairness inequity. Others include rest day disparity and the travel burden for teams outside of Victoria. The addition of the Tasmania Devils, making an uneven 19 teams, is likely to exacerbate scheduling difficulty.  
 
 ## Proposal  
 
-The scheduling problem will be addressed by prioritising competitive fairness over commercial objectives. Scheduling governance and mathematical optimisation will be applied to minimise statistically significant advantages and disadvantages.  
+Scheduling issues will be addressed by prioritising competitive fairness over commercial objectives. Scheduling governance and mathematical optimisation will be applied to minimise statistically significant advantages and disadvantages.  
 
 I will quantify fairness in terms of teams' home ground advantage, player welfare, strength of schedule (i.e., opponent strength), and travel burden, by applying a weighted-sum minimisation model. I will analyse interdependent data sets to establish equity baselines, using historical match data from seasons 2012 to 2025, to inform recommendations for scheduling changes. Methodology will include multi-objective optimisation with a Pareto frontier; for example, balancing teams' cumulative travel burdens with runs of consecutive home or away games ('breaks'). 
 
 ### Rest variance  
 Rest variance occurs when two teams have disparate numbers of rest days preceding a match, typically providing advantage to the more rested team. The frequency of significant rest variance increased in season 2025 with the introduction of regular Thursday night games.  
 
-This can be addressed by flagging rest day disparities of 3 or more days. A constraint can be introduced where no team can play an opponent with more than 2 additional rest days, excluding matches that follow bye rounds.
+To address this, a constraint can be introduced where no team can play an opponent with more than 2 additional rest days, excluding matches that follow bye rounds. 
 
 #### 2025 net rest heat map  
 The heat map below illustrates inequity in rest days that preceded matches in season 2025. For example, Essendon had 2 additional rest days prior to playing Adelaide and 2 fewer prior to playing Collingwood. Essendon the was most advantaged and Melbourne the most disadvantaged team over the course of the season. Five of the top 8 'rested' teams qualified to play finals.  
@@ -37,14 +35,14 @@ The heat map below illustrates inequity in rest days that preceded matches in se
  <a href="assets/2025_heatmap.jpg" target="_blank">![2025 net rest variance heat map](assets/2025_heatmap_reduced.jpg)</a> 
 
 ### Travel variance  
-'Gather Round', a carnival where all 9 matches are played in and around Adelaide, was introduced in season 2023. It has proven successful for both the league and South Australian tourism. This can be leveraged by matching teams from the West and East coasts (e.g., Gold Coast vs Fremantle, Sydney vs West Coast) to equalise their respective travel burdens; and prioritising these match-ups over those most commercially appealing.  
+'Gather Round', a carnival where all 9 matches are played in and around Adelaide, was introduced in season 2023. It has proven successful for both the league and South Australian tourism. This can be leveraged by matching teams from the West and East coasts (Gold Coast vs Fremantle, Sydney vs West Coast, etc.) to minimise their respective travel imposts; and prioritising these match-ups over alternatives that may be more commercially appealing.  
 
 Similarly, a 4-match mini-carnival can be scheduled in Tasmania. This would feature the Devils and teams that have invested in Tasmanian supporter bases; that is, Hawthorn since 2001, North Melbourne since 2012, and Richmond commencing in 2026.  
 
-Road trips can be cost-prohibitive, and have historically been avoided with cumulative travel being considered detrimental to player welfare. In 2025, North Melbourne played consecutive home games in Western Australia against Fremantle and West Coast. Other teams, particularly from outside Victoria, could exploit this strategy to reduce the frequency of long flights.  
+Road trips can be cost-prohibitive, and have historically been avoided due to cumulative travel being considered detrimental to player welfare. In 2025, North Melbourne played consecutive home games in Western Australia against Fremantle and West Coast. Other teams, particularly from outside Victoria, could leverage this strategy to reduce the frequency of long flights.  
 
 #### 2025 travel variance  
-The chart below illustrates the variance in total distance travelled by each team to play matches in 2025. Richmond travelled 6,645 km, less than a quarter of the 27,927 km travelled by Fremantle.  
+The chart below illustrates the disparity in total distance travelled by each team to play matches in 2025. Richmond travelled 6,645 km, which was less than a quarter of the 27,927 km travelled by Fremantle.  
 
  <a href="assets/2025_travel.jpg" target="_blank">![2025 net rest variance heat map](assets/2025_travel_reduced.jpg)</a> 
 

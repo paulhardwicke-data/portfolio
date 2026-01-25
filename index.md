@@ -43,7 +43,7 @@ Employment-related capability examples in addition to those provided above inclu
 
 * Restructured complex website information architecture to migrate legacy enterprise websites to SharePoint CMS, improving user journeys and data discoverability.  
 
-### Commendations  
+### Employment commendations  
 
 | AO8 managerial higher duty relief | Values award | AO7 managerial higher duty relief | Excellence commendation |
 | :--- | :--- | :--- | :--- |
@@ -61,12 +61,45 @@ Information about my research-related capabilities is provided in my <a href="ca
 
 ### Completed tertiary education  
 
-| Graduate Certificate in Information Systems | Graduate Certificate in Information Technology | Bachelor of Creative Industries |
-| :--- | :--- | :--- |
-| GPA 6.8 | GPA 7.0 | GPA 6.2 |
-| Excelled in Business Requirements Analysis, Foundation Skills in Data Analysis, Information Management & Security, and Value of Information | Excelled in Entrepreneurship & Collective Intelligence, e-Strategic Management, Internet Fundamentals, and Problem Solving & Programming  | Sub-majors: Communication, Digital Media |
-| <a href="assets/docs/education/Deakin_300_441.jpg" target="_blank"><img src="assets/docs/education/Deakin_300_441.jpg" width="150" height="220" alt="Graduate Certificate in Information Systems (Deakin)"></a> | <a href="assets/docs/education/JCU_300w_440h.jpg" target="_blank"><img src="assets/docs/education/JCU_300w_440h.jpg" width="150" height="220" alt="Graduate Certificate in Information Technology (JCU)"></a> | <a href="assets/docs/education/QUT_300w_440h.jpg" target="_blank"><img src="assets/docs/education/QUT_300w_440h.jpg" width="150" height="220" alt="Bachelor of Creative Industries (QUT)"></a> |
-| <a href="assets/docs/education/Deakin_602_884.jpg" target="_blank">![Graduate Certificate in Information Systems testamur](assets/docs/education/Deakin_300_441.jpg)</a> | <a href="assets/docs/education/JCU_cert_2020.jpg" target="_blank">![Graduate Certificate in Information Technology testamur](assets/docs/education/JCU_300w_440h.jpg)</a> | <a href="assets/docs/education/QUT_600w_880h.jpg" target="_blank">![Bachelor of Creative Industries testamur](assets/docs/education/QUT_300w_440h.jpg)</a> |
+<table>
+  <thead>
+    <tr>
+      <th width="33.3%">Graduate Certificate in Information Systems</th>
+      <th width="33.3%">Graduate Certificate in Information Technology</th>
+      <th width="33.4%">Bachelor of Creative Industries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <div align="center">
+          <a href="assets/docs/education/Deakin_300_441.jpg" target="_blank">
+            <img src="assets/docs/education/Deakin_300_441.jpg" width="150" height="220" alt="Graduate Certificate in Information Systems (Deakin)">
+          </a>
+        </div>
+      </td>
+      <td align="center">
+        <div align="center">
+          <a href="assets/docs/education/JCU_300w_440h.jpg" target="_blank">
+            <img src="assets/docs/education/JCU_300w_440h.jpg" width="150" height="220" alt="Graduate Certificate in Information Technology (JCU)">
+          </a>
+        </div>
+      </td>
+      <td align="center">
+        <div align="center">
+          <a href="assets/docs/education/QUT_300w_440h.jpg" target="_blank">
+            <img src="assets/docs/education/QUT_300w_440h.jpg" width="150" height="220" alt="Bachelor of Creative Industries (QUT)">
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Excelled in: </strong>Business Requirements Analysis, Foundation Skills in Data Analysis, Information Management & Security, Value of Information </td>
+      <td valign="top"><strong>Excelled in: </strong>Entrepreneurship & Collective Intelligence, e-Strategic Management, Internet Fundamentals, Problem Solving & Programming </td>
+      <td valign="top"><strong>Sub-majors: </strong>Communication, Digital Media </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Microsoft certifications  
 
