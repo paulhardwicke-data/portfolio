@@ -76,14 +76,14 @@ Information about my research-related capabilities is provided in my <a href="ca
     <tr>
       <td align="center">
         <div align="center">
-          <a href="assets/docs/education/Deakin_300_441.jpg" target="_blank">
+          <a href="assets/docs/education/Deakin_602_884.jpg" target="_blank">
             <img src="assets/docs/education/Deakin_300_441.jpg" width="150" height="220" alt="Graduate Certificate in Information Systems (Deakin)">
           </a>
         </div>
       </td>
       <td align="center">
         <div align="center">
-          <a href="assets/docs/education/JCU_300w_440h.jpg" target="_blank">
+          <a href="assets/docs/education/JCU_600w_880h.jpg" target="_blank">
             <img src="assets/docs/education/JCU_300w_440h.jpg" width="150" height="220" alt="Graduate Certificate in Information Technology (JCU)">
           </a>
         </div>
@@ -91,7 +91,7 @@ Information about my research-related capabilities is provided in my <a href="ca
       <td align="center">
         <div align="center">
           <a href="assets/docs/education/QUT_300w_440h.jpg" target="_blank">
-            <img src="assets/docs/education/QUT_300w_440h.jpg" width="150" height="220" alt="Bachelor of Creative Industries (QUT)">
+            <img src="assets/docs/education/QUT_600w_880h.jpg" width="150" height="220" alt="Bachelor of Creative Industries (QUT)">
           </a>
         </div>
       </td>
